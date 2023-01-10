@@ -5,6 +5,8 @@ For study time series with channel window gate for location movement, forward - 
 
 Input wavelengths from wave file or microphones, video or time series input can shorten lengths or strengthen or resize data for various purposes, engineer working from the same views as us they had the same inputs with only image or wave file represent data [ 0. ] to [ 255. ] or sample data 67.7777777779 but they need to build a system that can tell you when someone passing the door gate or movement to create a robots or machine for services or maintain services.
 
+From the codes it look simply, only compare of current time and forward input but for actual system you can apply ore algorithms for advance imeplementation or integrations. How does the information cannot extracting from signals 🔺🔺🔺🔺 or phases replacement that is why water masks had effects on picture information not only smiles logo they never talking about.
+
 ```
 def windowed_dataset(series, time_step):
     dataX, dataY = [], []
