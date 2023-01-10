@@ -41,7 +41,7 @@ def windowed_dataset(series, time_step):
 
 ![Alt text](https://github.com/jkaewprateep/time_series_singlegate_object_location/blob/main/Figure_2.png "Title")
 
-#### Window size 100 from the sample : image ####
+#### Window size 100 from the sample : image actors ####
 
 ![Alt text](https://github.com/jkaewprateep/time_series_singlegate_object_location/blob/main/Figure_3.png "Title")
 
