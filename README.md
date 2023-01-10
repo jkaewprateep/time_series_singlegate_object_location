@@ -1,2 +1,2 @@
 # time_series_singlegate_object_location
-For study time series with channel window gate for location movement, forward - backward time series
+For study time series with channel window gate for location movement, forward - backward time series. Windowed channel or input mapping can perfrom stregthen or resize of data by reamin significants as you see in the signalings, communication but it also working for gate location in picutre too. Compare of time series location change and bitmap height width networks object location.
